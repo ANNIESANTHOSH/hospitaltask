@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "PRS hospital",
+        "patientCount": 20,
+        "location": "killipalam"
+    },
+    {
+        "id": 2,
+        "name": "SAT HOSPIAL",
+        "patientCount": 10,
+        "location": "Tvm"
+    },
+    {
+        "id": 3,
+        "name": "NIMS",
+        "patientCount": 59,
+        "location": "Neyyatinkara"
+    }
+]
